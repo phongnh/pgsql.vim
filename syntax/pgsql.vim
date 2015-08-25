@@ -626,6 +626,7 @@ syn region pgsqlFunction	start="euc_tw_to_mic'(" end=")" contains=ALL
 syn region pgsqlFunction	start="euc_tw_to_utf8'(" end=")" contains=ALL
 syn region pgsqlFunction	start="every'(" end=")" contains=ALL
 syn region pgsqlFunction	start="exp'(" end=")" contains=ALL
+syn region pgsqlFunction	start="extract'(" end=")" contains=ALL
 syn region pgsqlFunction	start="factorial'(" end=")" contains=ALL
 syn region pgsqlFunction	start="family'(" end=")" contains=ALL
 syn region pgsqlFunction	start="first'(" end=")" contains=ALL
